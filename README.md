@@ -1,3 +1,5 @@
+> **This repository has moved.** It now lives in the folder [`exact-website-clone`](https://github.com/florianrolke/community-resources/tree/main/exact-website-clone) of [florianrolke/community-resources](https://github.com/florianrolke/community-resources), together with all of Florian Rolke's community resources. This copy is archived (read-only) and stays online so existing links keep working. New fixes and updates happen in community-resources.
+
 # exact-website-clone
 
 Clone any prospect's website header in minutes and deploy it to a live URL — with personalized case-study copy below the fold.
